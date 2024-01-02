@@ -1,0 +1,26 @@
+day la bai tap dien tu vung eng. voi cac tu: ["hello", "love", "yes", "us"]
+user se co 3 luot doan sai.
+
+
+BUG1:   user phai xai het luot choi moi nhan quit game de bat dau lai game.
+        hien tai chi co the nhan close "x" -> dung program
+
+BUG2:   b1. doan sai tu vung        -> DONE
+        b2. doan dung tu nhung la doan 1 tu ko phai tung chu
+        ->cau noty sai o b1 k bi mat
+
+BUG3:   neu user doan dung thi bai toan van co the random lai cac tu da doan.
+        hien bai toan chua loai tru cac tu da doan dung
+
+BUG4:   chua hien thi chu cai goi y, chi moi show dc so luong chu cai trong tu vung do
+
+
+BUG5:   lan dau nhap 1 tu dung      -> DONE
+
+BUG6:   b1. doan sai tu vung        -> DONE
+        b2. doan dung chu trong tu
+        ->cau noty sai o b1 k bi mat
+
+BUG7:   b1. doan sai voi nhieu chu cai      -> DONE
+        b2. doan dung chu trong tu
+        ->cau noty sai o b1 k bi mat

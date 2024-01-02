@@ -1,0 +1,5 @@
+get timezones
+
+BUG1: neu b1 nhan button gettime
+        -> bi error
+
